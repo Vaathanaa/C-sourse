@@ -4,5 +4,7 @@ int main () {
     printf("Welcome back to Vscode");
     printf("hello new vathana");
     printf("hello bye bye");
+    int number=10;
+    printf("%d",number);
     return 0;
 }
